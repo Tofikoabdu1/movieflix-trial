@@ -245,7 +245,7 @@ a{
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     }
     .movie-card{
-        height: 400px;
+        height: 450px;
     }
     .features{
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
